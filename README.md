@@ -28,7 +28,7 @@ My main subjects of focus are : computer vision, object detection, image segment
 
 ## Portfolio
 
-- Cleaning study on gamma-ray event reconstruction
+- Cleaning study on gamma-ray event reconstruction, presented at [ADASS 2024](https://pretalx.com/adass2024/talk/review/HWLA9GZPX3YRZ7PDKWWLPCCKSMZMZA3H)
 - Phd thesis (in French) on [theses.fr](https://theses.fr/2021UCFAC112) : "Contributions au recalage pour la réalité augmentée en coelioscopie de l'utérus : détection de contours sémantiques et mise à jour topologique du modèle virtuel à partir d'images peropératoires", directed by Pr Adrien BARTOLI, supervised by Dr Lilian CALVET and Damien SABOUL.
 
 ## Out of work
@@ -40,8 +40,9 @@ My main subjects of focus are : computer vision, object detection, image segment
 
 ## Contact
 
-- [Linkedin profile](https://www.linkedin.com/in/tomfrancois/)
-- [Github profile](https://github.com/francoto)
-- [Gitlab Profile](https://gitlab.com/tofranco)
-- [email pro](tom.francois@lapp.in2p3.fr)
-- Work adress :  Laboratoire d'Annecy de Physique des Particules (LAPP), 9 Chemin de Bellevue, 74940 Annecy
+[Linkedin](https://www.linkedin.com/in/tomfrancois/) 
+[Github profile](https://github.com/francoto)
+[Gitlab Profile](https://gitlab.com/tofranco)
+[email pro](tom.francois@lapp.in2p3.fr)
+
+Work adress :  Laboratoire d'Annecy de Physique des Particules (LAPP), 9 Chemin de Bellevue, 74940 Annecy
