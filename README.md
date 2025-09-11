@@ -54,6 +54,3 @@ I hold an engineering degree in signal processing (Grenoble INP ENSE3, 2015) and
 </p>
 
 <img src="https://www.svgrepo.com/show/434146/mailbox.svg" alt="Mailbox" width="20" height="20"/> **Work address**: Laboratoire d'Annecy de Physique des Particules (LAPP), 9 Chemin de Bellevue, 74940 Annecy
-
-
-Work adress :  Laboratoire d'Annecy de Physique des Particules (LAPP), 9 Chemin de Bellevue, 74940 Annecy
