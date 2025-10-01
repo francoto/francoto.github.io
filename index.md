@@ -30,6 +30,7 @@ I hold an engineering degree in signal processing (Grenoble INP ENSE3, 2015) and
 
 ## Portfolio
 
+- **2025-10-04/05**: Scientific Popularization at [Fête de la Science 2025 (LAPP, LAPTh, LISTIC)](https://indico.in2p3.fr/event/36353/page/4527-informations-pratiques)
 - **2024-11**:  Cleaning study on gamma-ray event reconstruction, presented at [ADASS 2024](https://pretalx.com/adass2024/talk/review/HWLA9GZPX3YRZ7PDKWWLPCCKSMZMZA3H)
 - **2021-12**: Phd thesis (in French) on [theses.fr](https://theses.fr/2021UCFAC112) : "Contributions au recalage pour la réalité augmentée en coelioscopie de l'utérus : détection de contours sémantiques et mise à jour topologique du modèle virtuel à partir d'images peropératoires", directed by Pr Adrien BARTOLI, supervised by Dr Lilian CALVET and Damien SABOUL.
 
